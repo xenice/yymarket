@@ -1,0 +1,723 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: onenice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-28 07:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: onenice"
+
+#: ext/class-relative-date.php:71
+msgid " days ago"
+msgstr ""
+
+#: ext/class-relative-date.php:72
+msgid " hours ago"
+msgstr ""
+
+#: ext/class-relative-date.php:73
+msgid " minutes ago"
+msgstr ""
+
+#: ext/class-relative-date.php:70
+msgid " months ago"
+msgstr ""
+
+#: ext/class-relative-date.php:74
+msgid " seconds ago"
+msgstr ""
+
+#: ext/class-relative-date.php:69
+msgid " years ago"
+msgstr ""
+
+#: sidebar.php:52 template-parts/related-posts.php:34
+#: vessel/widgets/PostsWidget.php:116 vessel/widgets/PostsWidget.php:136
+msgid "(no title)"
+msgstr ""
+
+#. Description of the theme
+msgid "A virtual resource paid download mall theme"
+msgstr ""
+
+#: vessel/Elements.php:207 vessel/Elements.php:286
+msgid "Add"
+msgstr ""
+
+#: vessel/Config.php:458
+msgid "Add a copyright notice at the bottom of the article."
+msgstr ""
+
+#: vessel/Config.php:266
+msgid "Add a copyright notice at the bottom of the website."
+msgstr ""
+
+#: vessel/Config.php:461
+msgid ""
+"All articles on this site, unless otherwise specified, are original "
+"publications of this site. If the content of this site violates your "
+"legitimate rights and interests, please contact us to deal with it."
+msgstr ""
+
+#: vessel/Config.php:353
+msgid "Archive"
+msgstr ""
+
+#: functions.php:253
+msgid "archive"
+msgstr ""
+
+#: sidebar.php:71
+msgid "Archives"
+msgstr ""
+
+#: vessel/Config.php:175
+msgid "Auxiliary functions"
+msgstr ""
+
+#: functions.php:529
+msgid "Back to top"
+msgstr ""
+
+#: vessel/Config.php:88 vessel/Config.php:130
+msgid "Background "
+msgstr ""
+
+#: woocommerce/download-part.php:29
+msgid "Buy Now"
+msgstr ""
+
+#: sidebar.php:81
+msgid "Categories"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:216
+msgid "Category:"
+msgstr ""
+
+#. %s is the comments number.
+#: comments.php:27 woocommerce/single-product-reviews.php:27
+#, php-format
+msgid "Comments (%s)"
+msgstr ""
+
+#: woocommerce/customer-service.php:18
+msgid "Contact customer service"
+msgstr ""
+
+#: woocommerce/customer-service.php:17
+msgid "Contact Information"
+msgstr ""
+
+#: vessel/Config.php:457
+msgid "Copyright Notice"
+msgstr ""
+
+#: vessel/Config.php:467
+msgid "Customer service"
+msgstr ""
+
+#: vessel/Config.php:478
+msgid "Customer service QQ"
+msgstr ""
+
+#: vessel/Config.php:484
+msgid "Customer service wechat"
+msgstr ""
+
+#: vessel/Config.php:70 vessel/Config.php:112
+msgid "Dark"
+msgstr ""
+
+#: vessel/Config.php:161
+msgid "Defalut"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:221 vessel/widgets/PostsWidget.php:223
+msgid "Default"
+msgstr ""
+
+#: vessel/Config.php:258
+msgid "Delete Theme Copyright"
+msgstr ""
+
+#: woocommerce/download-part.php:41
+#: woocommerce/class-product-custom-fields.php:65
+msgid "Demo url"
+msgstr ""
+
+#: vessel/Elements.php:252 vessel/Elements.php:270
+msgid "Description:"
+msgstr ""
+
+#: ext/class-optimize.php:58
+msgid "Disable revision"
+msgstr ""
+
+#: vessel/Config.php:449
+msgid "Disable Share Buttons"
+msgstr ""
+
+#: ext/class-optimize.php:86
+msgid "Disable the front admin bar"
+msgstr ""
+
+#: ext/class-optimize.php:65
+msgid "Disable update reminders"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:246
+msgid "Display post date?"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:242
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: vessel/Config.php:170
+msgid "Display resource quantity"
+msgstr ""
+
+#: functions.php:203
+msgid "Downloads"
+msgstr ""
+
+#: page.php:21 single.php:34 woocommerce/single-product.php:68
+msgid "Edit"
+msgstr ""
+
+#: vessel/Config.php:233 vessel/Config.php:240 vessel/Config.php:259
+#: vessel/Config.php:280 vessel/Config.php:387 vessel/Config.php:394
+#: vessel/Config.php:408 vessel/Config.php:415 vessel/Config.php:422
+#: vessel/Config.php:429 vessel/Config.php:436 vessel/Config.php:443
+#: ext/class-optimize.php:36 ext/class-optimize.php:43
+#: ext/class-optimize.php:50 ext/class-optimize.php:57
+#: ext/class-optimize.php:64 ext/class-optimize.php:71
+#: ext/class-optimize.php:78 ext/class-optimize.php:85
+msgid "Enable"
+msgstr ""
+
+#: vessel/Config.php:209
+msgid "Enable back to top button"
+msgstr ""
+
+#: ext/class-optimize.php:37
+msgid "Enable classic editor"
+msgstr ""
+
+#: ext/class-optimize.php:44
+msgid "Enable classic widget"
+msgstr ""
+
+#: vessel/Config.php:185
+msgid "Enable Code Highlight"
+msgstr ""
+
+#: vessel/Config.php:199
+msgid "Enable css animation"
+msgstr ""
+
+#: vessel/Config.php:471
+msgid "Enable customer service"
+msgstr ""
+
+#: ext/class-optimize.php:51
+msgid "Enable gravatar acceleration"
+msgstr ""
+
+#: vessel/Config.php:179
+msgid "Enable theme widgets"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:37
+msgid "Enter the verification code for this product."
+msgstr ""
+
+#: vessel/Config.php:367
+msgid "Excerpt Length"
+msgstr ""
+
+#: ext/class-optimize.php:79
+msgid "Extend the classic editor buttons"
+msgstr ""
+
+#: ext/ext.php:43 ext/class-ext-config.php:15 ext/class-ext-config.php:17
+msgid "Extension"
+msgstr ""
+
+#: vessel/Config.php:248
+msgid "Footer"
+msgstr ""
+
+#: vessel/Config.php:265
+msgid "Footer Copyright Notice"
+msgstr ""
+
+#: vessel/Config.php:94 vessel/Config.php:136
+msgid "Foreground"
+msgstr ""
+
+#: woocommerce/download-part.php:36
+msgid "Free download"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:54
+msgid "Free download url"
+msgstr ""
+
+#: vessel/Config.php:205
+msgid "Give a like"
+msgstr ""
+
+#: vessel/Config.php:56
+msgid "Global"
+msgstr ""
+
+#: vessel/Config.php:59
+msgid "Global Colors"
+msgstr ""
+
+#: vessel/Config.php:222
+msgid "Header"
+msgstr ""
+
+#: vessel/Config.php:101
+msgid "Header and footer colors"
+msgstr ""
+
+#: functions.php:128 functions.php:148 functions.php:237 vessel/Config.php:314
+#: woocommerce/archive-product.php:17
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+#: page-templates/home-1.php:2
+msgid "Home-1"
+msgstr ""
+
+#: vessel/widgets/HotPostsWidget.php:29
+msgid "Hot Posts"
+msgstr ""
+
+#: woocommerce/single-product.php:109
+msgid "Hot Recommendation"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.xenice.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.xenice.com/yymarket"
+msgstr ""
+
+#: vessel/Config.php:252
+msgid "ICP Number"
+msgstr ""
+
+#: vessel/Elements.php:265
+msgid "Image"
+msgstr ""
+
+#: vessel/Elements.php:254 vessel/Elements.php:272
+msgid "Image Path:"
+msgstr ""
+
+#: vessel/Config.php:337
+msgid "Last published alias"
+msgstr ""
+
+#: vessel/Config.php:343
+msgid "Last published description"
+msgstr ""
+
+#: vessel/Config.php:339
+msgid "Latest publish"
+msgstr ""
+
+#: vessel/Config.php:76 vessel/Config.php:118
+msgid "Light"
+msgstr ""
+
+#: single.php:50 woocommerce/single-product.php:75 vessel/ajax/LikeAjax.php:31
+msgid "Liked"
+msgstr ""
+
+#: vessel/Config.php:82 vessel/Config.php:124
+msgid "Link"
+msgstr ""
+
+#: vessel/Config.php:357
+msgid "List Style"
+msgstr ""
+
+#: functions.php:69
+msgid "Login"
+msgstr ""
+
+#: functions.php:204
+msgid "Logout"
+msgstr ""
+
+#: vessel/Config.php:64 vessel/Config.php:106
+msgid "Main"
+msgstr ""
+
+#: functions.php:228
+msgid "Main Menu"
+msgstr ""
+
+#: ext/class-ext-config.php:26
+msgid "More"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:79
+msgid "Multiple entries are separated by commas."
+msgstr ""
+
+#: single.php:61
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/cards-text.php:32 template-parts/cards-thumbnail.php:44
+msgid "No articles."
+msgstr ""
+
+#: woocommerce/archive-product.php:78
+msgid "No products."
+msgstr ""
+
+#: search.php:69
+msgid "No resources found."
+msgstr ""
+
+#: woocommerce/single-product.php:125 template-parts/related-posts.php:30
+msgid "None .."
+msgstr ""
+
+#: 404.php:23
+msgid "Not Found"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:237
+msgid "Number of posts to show:"
+msgstr ""
+
+#: vessel/Config.php:293 vessel/Config.php:299 vessel/Config.php:305
+msgid ""
+"OneNice is a super concise WordPress theme, supporting both Chinese and "
+"English, free open source, no encryption, no redundant code, no "
+"authorization restrictions, can be used freely."
+msgstr ""
+
+#: vessel/Config.php:292 vessel/Config.php:298 vessel/Config.php:304
+msgid "OneNice Theme"
+msgstr ""
+
+#: ext/class-ext-config.php:21
+msgid "Optimize"
+msgstr ""
+
+#: functions.php:202
+msgid "Orders"
+msgstr ""
+
+#: vessel/Config.php:144
+msgid "Page Width"
+msgstr ""
+
+#: ext/class-photoswipe.php:18
+msgid "PhotoSwipe"
+msgstr ""
+
+#: comments.php:9 woocommerce/single-product-reviews.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: functions.php:245 vessel/Config.php:403
+msgid "Posts"
+msgstr ""
+
+#: single.php:60
+msgid "Previous Post"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:47
+msgid "Product version number."
+msgstr ""
+
+#: sidebar.php:36 vessel/widgets/RecentPostsWidget.php:27
+msgid "Recent Posts"
+msgstr ""
+
+#: template-parts/related-posts.php:9
+msgid "Related Posts"
+msgstr ""
+
+#: ext/class-relative-date.php:21
+msgid "Relative date"
+msgstr ""
+
+#: ext/class-optimize.php:72
+msgid "Remove image attributes while editing posts"
+msgstr ""
+
+#: vessel/Config.php:51 vessel/Admin.php:181
+msgid "Save Changes"
+msgstr ""
+
+#: ext/class-ext-config.php:16
+msgid "Save changes"
+msgstr ""
+
+#: vessel/Admin.php:97
+msgid "save failed"
+msgstr ""
+
+#: vessel/Admin.php:90
+msgid "save success"
+msgstr ""
+
+#: vessel/Config.php:333
+msgid "Search"
+msgstr ""
+
+#: vessel/Config.php:324
+msgid "Search box description"
+msgstr ""
+
+#: vessel/Config.php:331
+msgid "Search box tips"
+msgstr ""
+
+#: vessel/Config.php:318
+msgid "Search box title"
+msgstr ""
+
+#: vessel/Config.php:320
+msgid "Search website resources"
+msgstr ""
+
+#: vessel/Elements.php:162
+msgid "Select"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:76
+msgid "Service infomation"
+msgstr ""
+
+#: vessel/vessel.php:112
+msgid "Settings"
+msgstr ""
+
+#: woocommerce/archive-product.php:8 woocommerce/archive-product.php:18
+msgid "Shop"
+msgstr ""
+
+#: vessel/Config.php:393 vessel/Config.php:414
+msgid "Show Author"
+msgstr ""
+
+#: vessel/Config.php:386 vessel/Config.php:407
+msgid "Show Date"
+msgstr ""
+
+#: vessel/Config.php:239
+msgid "Show Login Button"
+msgstr ""
+
+#: vessel/Config.php:428
+msgid "Show Previous/Next Posts"
+msgstr ""
+
+#: vessel/Config.php:435
+msgid "Show Related Posts"
+msgstr ""
+
+#: vessel/Config.php:232
+msgid "Show Search"
+msgstr ""
+
+#: vessel/Config.php:442
+msgid "Show Share"
+msgstr ""
+
+#: vessel/Config.php:421
+msgid "Show Tags"
+msgstr ""
+
+#: vessel/Config.php:152
+msgid "Site Icon"
+msgstr ""
+
+#: vessel/Config.php:380
+msgid "Site Loading Image"
+msgstr ""
+
+#: vessel/Config.php:226
+msgid "Site Logo"
+msgstr ""
+
+#: vessel/Config.php:374
+msgid "Site Thumbnail"
+msgstr ""
+
+#: vessel/Config.php:275 vessel/Config.php:279
+msgid "Slides"
+msgstr ""
+
+#: vessel/Config.php:286
+msgid "Slides Settings"
+msgstr ""
+
+#: 404.php:24
+msgid "Sorry, the page you visited has migrated or does not exist"
+msgstr ""
+
+#: vessel/Config.php:158
+msgid "Static library CDN"
+msgstr ""
+
+#: vessel/widgets/StickyPostsWidget.php:29 ext/templates/sticky-posts.php:106
+msgid "Sticky Posts"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Tag Cloud"
+msgstr ""
+
+#: single.php:45
+msgid "Tags: "
+msgstr ""
+
+#: vessel/Config.php:360
+msgid "Text"
+msgstr ""
+
+#: search.php:31
+msgid "The following results were found:"
+msgstr ""
+
+#: ext/class-relative-date.php:24
+msgid "The posts show relative dates"
+msgstr ""
+
+#: ext/class-photoswipe.php:21
+msgid "The slideshow is displayed when you click on post images"
+msgstr ""
+
+#: vessel/Config.php:50 vessel/Config.php:52
+msgid "Theme settings"
+msgstr ""
+
+#: comments.php:14 woocommerce/single-product-reviews.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: vessel/Config.php:361
+msgid "Thumbnail"
+msgstr ""
+
+#: vessel/Elements.php:250 vessel/Elements.php:268
+#: vessel/widgets/PostsWidget.php:211
+msgid "Title:"
+msgstr ""
+
+#: page-templates/update-log.php:100
+msgid "Uncategorized"
+msgstr ""
+
+#. Name of the template
+#: page-templates/update-log.php:2
+msgid "Update Log"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:57
+msgid "URL for free download (visible to authorized members)."
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:68
+msgid "URL to product demo or preview."
+msgstr ""
+
+#: vessel/Elements.php:248 vessel/Elements.php:266
+msgid "URL:"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:34
+msgid "Verify code"
+msgstr ""
+
+#: woocommerce/class-product-custom-fields.php:44
+msgid "Version"
+msgstr ""
+
+#: page-templates/update-log.php:112
+msgid "View"
+msgstr ""
+
+#: vessel/Config.php:346
+msgid ""
+"We will continue to update the latest hot resources and continue to provide "
+"you with more choices!"
+msgstr ""
+
+#: woocommerce/customer-service.php:9
+msgid "Wechat"
+msgstr ""
+
+#: vessel/Config.php:450
+msgid ""
+"weibo,wechat,qq,douban,qzone,tencent,linkedin,diandian,google,twitter,"
+"facebook"
+msgstr ""
+
+#: vessel/Config.php:472
+msgid ""
+"When enabled, a customer service button will be displayed on the details "
+"page."
+msgstr ""
+
+#: vessel/Config.php:191
+msgid ""
+"When the post does not have a thumbnail, use the first image of the post as "
+"a thumbnail"
+msgstr ""
+
+#. Author of the theme
+msgid "xenice"
+msgstr ""
+
+#: vessel/widgets/HotPostsWidget.php:30
+msgid "Xenice Hot Posts"
+msgstr ""
+
+#: vessel/widgets/RecentPostsWidget.php:28
+msgid "Xenice Recent Posts"
+msgstr ""
+
+#: vessel/widgets/StickyPostsWidget.php:31
+msgid "Xenice Sticky Posts"
+msgstr ""
+
+#: vessel/ajax/LikeAjax.php:17
+msgid "You already liked it"
+msgstr ""
+
+#. Name of the theme
+msgid "yymarket"
+msgstr ""
+
+#: vessel/Config.php:327
+msgid ""
+"YYMarket is a virtual resource paid download mall theme developed by xenice"
+msgstr ""
