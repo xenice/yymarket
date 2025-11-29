@@ -1,5 +1,5 @@
 # yymarket
-> YYMarket是一款虚拟资源付费下载商城主题，完美兼容woocommerce数字资源商城插件，内置checkout页面、订单详情页、订单列表页、产品详情页、产品分类和产品标签等常用商城页面，简洁轻量免费开源，无任何授权限制。技术交流QQ群707252643，作者微信csq_wx。。 
+> YYMarket是一款虚拟资源付费下载商城主题，完美兼容woocommerce数字资源商城插件，内置checkout页面、订单详情页、订单列表页、产品详情页、产品分类和产品标签等常用商城页面，简洁轻量免费开源，无任何授权限制。技术交流QQ群707252643，作者微信18820483059。。 
 
 ### 主题地址
 [https://www.xenice.com/yymarket/](https://www.xenice.com/yymarket/)
