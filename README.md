@@ -1,4 +1,4 @@
-# yymarket主题已停止更新，有需要请使用替代产品XeDown主题，XeDown主题官网 [https://www.xenice.com/product/xedown/](https://www.xenice.com/product/xedown/)
+# yymarket主题已停止更新，有需要的朋友请使用替代产品XeDown主题，XeDown主题官网 [https://www.xenice.com/product/xedown/](https://www.xenice.com/product/xedown/)
 
 # yymarket
 > YYMarket是一款虚拟资源付费下载商城主题，完美兼容woocommerce数字资源商城插件，内置checkout页面、订单详情页、订单列表页、产品详情页、产品分类和产品标签等常用商城页面，简洁轻量免费开源，无任何授权限制。技术交流QQ群707252643，作者微信18820483059。。 
